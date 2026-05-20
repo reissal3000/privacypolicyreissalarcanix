@@ -1,69 +1,71 @@
 Privacy Policy – Arcanix – Tarot Reading
+
 Last updated: May 20, 2026
+
 Developer: Reis Sa. | Contact: reissal3000@gmail.com
-The Arcanix - Tarot Reading app is a free Android application that offers daily tarot readings with a special revelation experience. We value your privacy and collect the minimum amount of data possible. This policy explains what information is processed, how, and why.
+
+Arcanix - Tarot Reading is a free Android app that provides daily tarot readings with a special revelation experience. We value your privacy and collect the minimum data possible. This policy explains what information we handle, how, and why.
+This Privacy Policy applies globally, with specific rights depending on your location (e.g., LGPD for Brazil and CCPA/CPRA for California residents).
+
 1. Information We Collect
-Data stored locally on your device (no transmission to servers):
+Data stored locally on your device (no server transmission):
 
 Revealed tarot cards
-Diary/journal texts written
-Date of the last daily state update
+Journal/diary entries
+Date of the last daily update
 
-These data are saved exclusively in the internal storage of your phone (JSON file) so the app can remember which cards you have already revealed today and respect the daily limit. They never leave your device, are not sent to us or any third parties, and are automatically deleted if you uninstall the application.
-Data collected and stored in Firebase (Google):
-We collect and store the following personal data on our servers:
+These are saved only in your phone’s internal storage (JSON file) and never leave your device.
+Data collected and stored in Google Firebase:
 
-Email address
+Email address (for account authentication and features that require a user account)
 
-This data is collected for the purpose of identifying and authenticating users in the app and enabling features that require a user account. The email is stored securely in Firebase (Authentication and/or Firestore), a Google service, and is subject to Google’s Privacy Policy: https://policies.google.com/privacy
-We do not use the email for sending unsolicited advertising nor do we share it with third parties other than the infrastructure providers listed in section 2.
-Data collected automatically by Google AdMob (ads):
-We use Google AdMob to display banner and interstitial ads. AdMob may collect the following information:
+This is stored securely in Google Firebase and subject to Google’s Privacy Policy: https://policies.google.com/privacy
+Data collected automatically by Google AdMob (advertising):
 
 Advertising ID
 Device information (model, manufacturer, Android version, language)
-App usage data (ad interactions, view time)
-Approximate location (derived from IP address)
-Other technical data necessary to display and measure ads
+App usage and ad interaction data
+Approximate location (from IP address)
+Other technical data for ad delivery and fraud prevention
 
-This data is used by Google to personalize ads, measure performance, and prevent fraud.
-You can opt out of personalized ads in your Android settings (Settings > Google > Ads > Opt out of personalized ads) or reset your Advertising ID.
-We do not collect or have access to:
-
-Name, phone number, or any other personal data besides the email
-Photos, contacts, precise location, microphone, camera, or other sensors
-Browsing history outside the app
+We do not collect: name, phone number, photos, contacts, precise location, microphone/camera access, or browsing history outside the app.
 
 2. Data Sharing
-We only share information with:
+We share data only with:
 
-Google Firebase (Authentication / Firestore) — for email storage
-Google AdMob — for advertising data, in accordance with Google’s Privacy Policy: https://policies.google.com/privacy
+Google Firebase (Authentication / Firestore)
+Google AdMob
 
-We do not share data with any other company, advertiser, or third party.
-3. Legal Basis for Processing (LGPD)
-The processing of your email is based on your consent, provided when creating an account in the app, and on the performance of the service requested by you (art. 7, V of the LGPD). You may revoke your consent and request the deletion of your data at any time by contacting the email below.
-4. Data Retention and Deletion
-Your email is retained for as long as your account remains active in the application. Upon requesting account deletion, we remove your data from Firebase within 30 calendar days, unless there is a legal obligation to retain it.
-5. Your Rights (LGPD – Brazilian General Data Protection Law)
-According to the LGPD, you have the right to:
+No other third parties. We do not sell your personal information.
 
-Confirm the existence of data processing
-Access the data we hold about you
-Correct inaccurate or outdated data
-Request anonymization, blocking, or deletion
-Data portability to another service provider
-Revoke consent at any time
-File a complaint with the ANPD (National Data Protection Authority)
+3. Legal Basis & Your Rights
+For Brazilian users (LGPD):
+[Keep your original section 3, 4, and 5 here – they are good]
+For California residents (CCPA/CPRA):
+You have the following rights:
 
-To exercise any of these rights, please send an email to: reissal3000@gmail.com
+Right to know what personal information we collect, use, disclose, or sell
+Right to delete your personal information
+Right to correct inaccurate personal information
+Right to opt out of the sale or sharing of your personal information (we do not sell data)
+Right to limit use of sensitive personal information (we do not collect sensitive data)
+Right to non-discrimination for exercising your rights
+
+To exercise these rights, email: reissal3000@gmail.com
+For all users: You can request access, correction, or deletion of your data at any time via the contact email.
+
+4. Children’s Privacy (COPPA)
+The app is not directed to children under 13 years old. We do not knowingly collect personal information from children under 13. If you believe we have collected data from a child under 13, please contact us immediately so we can delete it.
+
+5. Data Retention
+Your email is kept while your account is active. Upon deletion request, we remove it from Firebase within 30 days (unless legally required to keep it).
+
 6. Security
-We use standard security practices (local storage encrypted by the Android system, data in Firebase protected by Google’s infrastructure, updated dependencies). However, no system is 100% secure. We cannot guarantee absolute security against unauthorized access.
-7. Children
-The app is not directed at children under 13 years of age and does not knowingly collect data from minors. If you are a parent or guardian and believe we have collected data from a child, please contact us.
-8. Changes to This Policy
-We may update this policy periodically. The most recent version will always be available in the official link. We recommend checking it from time to time. Continued use of the app after changes means you accept the new version.
-9. Contact
-Questions about privacy? Send an email to:
-reissal3000@gmail.com
-Thank you for using Arcanix - Tarot Reading! May the cards bring you insights, inspiration, and clarity every day.
+We follow industry-standard practices, but no system is completely secure.
+
+7. Changes to This Policy
+We may update this policy. The latest version will be posted here. Continued use after changes means you accept the updated policy.
+
+8. Contact
+Questions? Email: reissal3000@gmail.com
+Thank you for using Arcanix! May the cards bring you insights and clarity every day.
